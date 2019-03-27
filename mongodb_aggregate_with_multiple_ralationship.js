@@ -55,7 +55,7 @@ await LookseeAssignee.aggregate([
 });
 
 
-// Simple outpu
+// Simple output
 
 
 [
